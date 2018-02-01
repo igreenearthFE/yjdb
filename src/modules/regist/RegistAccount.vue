@@ -38,7 +38,7 @@ export default {
 <style lang="scss" scoped>
 .regist {
   width: 20rem;
-  height: 70%;
+  height: 60%;
   overflow: hidden;
   margin-top: 5rem;
   margin: 0 auto;
@@ -68,7 +68,7 @@ export default {
 .change {
   width: 15rem;
   margin: 0 auto;
-  margin-top: 4rem;
+  margin-top: 5rem;
   .el-button {
     background-color: #387c7d;
     width: 100%;

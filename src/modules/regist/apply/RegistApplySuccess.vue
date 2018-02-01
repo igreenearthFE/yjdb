@@ -23,7 +23,7 @@ export default {
 </script>
 <style lang="scss" scoped>
 .success {
-  margin-top: 4rem;
+  margin: 5rem auto;
   span {
     color: #67c23a;
     font-size: 40px;

@@ -7,7 +7,7 @@
       </div>
     </el-header>
     <el-main style="padding: 0;">
-      <div style="height: 80%; position: relative; top: 10%;">
+      <div style="width: 50%; margin: 0 auto; height: 70%; position: relative; top: 15%;">
         <reset-step v-bind:active="active"></reset-step>
         <div style="height: 70%; overflow: hidden;">
           <reset-key-verifica v-show="active == 0"></reset-key-verifica>

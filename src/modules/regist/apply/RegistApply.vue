@@ -1,7 +1,7 @@
 <template>
   <div style="height: 100%">
     <regist-apply-step v-bind:active="active"></regist-apply-step>
-    <div style="height: 70%; overflow: hidden;">
+    <div>
       <regist-apply-information v-show="active == 0"></regist-apply-information>
       <regist-apply-setting v-show="active == 1"></regist-apply-setting>
       <regist-apply-success v-show="active == 2"></regist-apply-success>

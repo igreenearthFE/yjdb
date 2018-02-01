@@ -9,7 +9,7 @@
 </script>
 <style lang="scss" scoped>
 .success {
-  margin-top: 5rem;
+  margin: 5rem auto;
   text-align: center;
   span {
     color: #67C23A;

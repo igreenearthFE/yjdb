@@ -1,7 +1,7 @@
 <template>
   <div style="height: 100%;">
     <regist-invit-step v-bind:active="active"></regist-invit-step>
-    <div style="height: 70%; overflow: hidden;">
+    <div>
       <regist-invit-verifica v-show="active == 0"></regist-invit-verifica>
       <regist-invit-information v-show="active == 1"></regist-invit-information>
       <regist-invit-setting v-show="active == 2"></regist-invit-setting>

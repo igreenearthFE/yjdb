@@ -25,7 +25,7 @@ export default {
 .el-form {
   width: 15rem;
   margin: 0 auto;
-  margin-top: 7rem;
+  margin: 5rem auto;
   text-align: center;
 }
 </style>

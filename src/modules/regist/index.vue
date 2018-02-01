@@ -7,7 +7,7 @@
       </div>
     </el-header>
     <el-main style="padding: 0;">
-      <div style="height: 80%; position: relative; top: 10%;">
+      <div style="width: 50%; margin: 0 auto; height: 80%; position: relative; top: 10%;">
         <regist-account v-show="showData == 0" v-on:registData="show"></regist-account>
         <regist-apply v-show="showData == 1"></regist-apply>
         <regist-invit v-show="showData == 2"></regist-invit>

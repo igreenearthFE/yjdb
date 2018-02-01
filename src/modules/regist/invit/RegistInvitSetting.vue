@@ -18,8 +18,7 @@
 <style lang="scss" scoped>
 .el-form {
   width: 15rem;
-  margin: 0 auto;
-  margin-top: 2rem;
+  margin: 3rem auto;
   text-align: center;
 }
 </style>

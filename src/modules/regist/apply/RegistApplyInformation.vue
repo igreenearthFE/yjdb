@@ -69,6 +69,6 @@ export default {
 .el-form {
   width: 40rem;
   margin: 0 auto;
-  margin-top: 1rem;
+  margin-top: 2rem;
 }
 </style>
